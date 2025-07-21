@@ -2,7 +2,7 @@ Hey there! 👋 I'm Satyam Kumar
 
 
 About Me
-🌍 Computer Science Sophomore at VIT, Vellore
+🌍 Computer Science Senior at VIT, Vellore
 🚀 Aspiring Data Scientist and ML Enthusiast
 📚 Committed to learning and mastering the fundamentals
 🎮 FPS Gamer | 🎶 Music Lover | 🎬 Movie Buff | ✈️ Travel Enthusiast
