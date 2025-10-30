@@ -32,7 +32,6 @@ How I Work
 Let's Connect!
 📫 Feel free to reach out: sk7474481@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/satyam-kumar-9a8824197
-🌐 Portfolio: www.satyamk.com
 
 Reach Out!
 I'm always open to connecting, discussing tech, or sharing experiences. Don't hesitate to drop a message!
