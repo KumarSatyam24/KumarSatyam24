@@ -61,9 +61,9 @@ I'm a **Computer Science Senior at VIT, Vellore** with a passion for **Data Scie
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarSatyam24&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-gamma-eight-bp2tzfkra4.vercel.app/api?username=KumarSatyam24&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSatyam24&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-gamma-eight-bp2tzfkra4.vercel.app/api/top-langs/?username=KumarSatyam24&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center"> 
