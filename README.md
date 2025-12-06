@@ -50,7 +50,10 @@ I'm a **Computer Science Senior at VIT, Vellore** with a passion for **Data Scie
 | :--- | :--- | :--- |
 | **Camera Trap IoT System** 🐯 | **Wildlife Monitoring:** A real-time system detecting humans/animals using **YOLOv8** on Raspberry Pi. Sends instant **Telegram alerts** upon motion detection. | `Python` `YOLOv8` `IoT` `Telegram API` |
 | **Stock Trade App** 📈 | **FinTech Platform:** A real-time trading platform featuring portfolio management, secure Google Auth, and transaction history export. | `React` `TypeScript` `Supabase` |
-| **Currency Detection** 💵 | **Research Project (NUS):** Counterfeit currency detection model using **ORB keypoint detection** and **SSIM**. Achieved **93% accuracy**. | `Python` `OpenCV` `AWS SageMaker` |
+| **Currency Detection** 💵 | **Research Project (NUS):** Counterfeit currency detection model using **ORB keypoint detection** and **SSIM`. Achieved **93% accuracy**. | `Python` `OpenCV` `AWS SageMaker` |
+| **AI-Powered Investment Recommendation Agent** 🤖📊 | **Investment Analytics Platform:** Combines real-time market data, economic indicators, and multi-source sentiment to generate AI-driven investment recommendations. | `Python` `Transformers` `BiLSTM` `TCN` |
+| **Advanced Intrusion Detection System** 🛡️ | **Security System:** Real-time motion detection, person tracking, forced-entry & glass-break detection, with automated incident alerts using advanced computer vision. | `OpenCV` `YOLO` `Computer Vision` |
+| **Body Posture Detection System** 🧍‍♂️📟 | **Wearable Posture Correction Device:** Uses MPU6050 + Raspberry Pi to monitor posture, send vibration alerts, provide Telegram reports, touch controls, and live analytics. | `Raspberry Pi` `Python` `IoT` `Matplotlib` `Wearable Tech` |
 
 ---
 
