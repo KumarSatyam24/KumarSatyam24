@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Satyam Kumar! 👨‍💻
+# Hello, I'm Satyam Kumar! 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=CS+Senior+%40+VIT+Vellore;Ex-Research+Intern+%40+NUS+Singapore;Oracle+Certified+Gen+AI+Professional;Building+Scalable+ML+%26+IoT+Solutions" alt="Typing SVG" />
@@ -22,14 +22,14 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I'm a **Computer Science Senior at VIT, Vellore** with a passion for **Data Science, Machine Learning, and Computer Vision**. I have experience working on research-based solutions, including a summer internship at the **National University of Singapore (NUS)**.
 
-* 🔭 **I’m currently working on:** Advanced Computer Vision applications and IoT integrations.
-* 🎓 **Education:** B.Tech CSE (GPA: 8.52).
-* 💼 **Experience:** Developed counterfeit currency detection models using AWS SageMaker during my internship at NUS.
-* 🧠 **Interests:** Generative AI, Stock Market Analysis, and Wildlife Monitoring Systems.
-* ⚡ **Fun Fact:** When I'm not coding, I'm grinding FPS games or traveling! 🎮✈️
+*  **I’m currently working on:** Advanced Computer Vision applications and IoT integrations.
+*  **Education:** B.Tech CSE (GPA: 8.52).
+*  **Experience:** Developed counterfeit currency detection models using AWS SageMaker during my internship at NUS.
+*  **Interests:** Generative AI, Stock Market Analysis, and Wildlife Monitoring Systems.
+*  **Fun Fact:** When I'm not coding, I'm grinding FPS games or traveling! ️
 
 ---
 
@@ -44,23 +44,23 @@ I'm a **Computer Science Senior at VIT, Vellore** with a passion for **Data Scie
 
 ---
 
-### 🏆 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Camera Trap IoT System** 🐯 | **Wildlife Monitoring:** A real-time system detecting humans/animals using **YOLOv8** on Raspberry Pi. Sends instant **Telegram alerts** upon motion detection. | `Python` `YOLOv8` `IoT` `Telegram API` |
-| **Stock Trade App** 📈 | **FinTech Platform:** A real-time trading platform featuring portfolio management, secure Google Auth, and transaction history export. | `React` `TypeScript` `Supabase` |
-| **Currency Detection** 💵 | **Research Project (NUS):** Counterfeit currency detection model using **ORB keypoint detection** and **SSIM`. Achieved **93% accuracy**. | `Python` `OpenCV` `AWS SageMaker` |
-| **AI-Powered Investment Recommendation Agent** 🤖📊 | **Investment Analytics Platform:** Combines real-time market data, economic indicators, and multi-source sentiment to generate AI-driven investment recommendations. | `Python` `Transformers` `BiLSTM` `TCN` |
-| **Advanced Intrusion Detection System** 🛡️ | **Security System:** Real-time motion detection, person tracking, forced-entry & glass-break detection, with automated incident alerts using advanced computer vision. | `OpenCV` `YOLO` `Computer Vision` |
-| **Body Posture Detection System** 🧍‍♂️📟 | **Wearable Posture Correction Device:** Uses MPU6050 + Raspberry Pi to monitor posture, send vibration alerts, provide Telegram reports, touch controls, and live analytics. | `Raspberry Pi` `Python` `IoT` `Matplotlib` `Wearable Tech` |
+| **Camera Trap IoT System**  | **Wildlife Monitoring:** A real-time system detecting humans/animals using **YOLOv8** on Raspberry Pi. Sends instant **Telegram alerts** upon motion detection. | `Python` `YOLOv8` `IoT` `Telegram API` |
+| **Stock Trade App**  | **FinTech Platform:** A real-time trading platform featuring portfolio management, secure Google Auth, and transaction history export. | `React` `TypeScript` `Supabase` |
+| **Currency Detection**  | **Research Project (NUS):** Counterfeit currency detection model using **ORB keypoint detection** and **SSIM`. Achieved **93% accuracy**. | `Python` `OpenCV` `AWS SageMaker` |
+| **AI-Powered Investment Recommendation Agent**  | **Investment Analytics Platform:** Combines real-time market data, economic indicators, and multi-source sentiment to generate AI-driven investment recommendations. | `Python` `Transformers` `BiLSTM` `TCN` |
+| **Advanced Intrusion Detection System**  | **Security System:** Real-time motion detection, person tracking, forced-entry & glass-break detection, with automated incident alerts using advanced computer vision. | `OpenCV` `YOLO` `Computer Vision` |
+| **Body Posture Detection System**  | **Wearable Posture Correction Device:** Uses MPU6050 + Raspberry Pi to monitor posture, send vibration alerts, provide Telegram reports, touch controls, and live analytics. | `Raspberry Pi` `Python` `IoT` `Matplotlib` `Wearable Tech` |
 
 ---
 
-### 📜 Certifications
-* 🥇 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-* 🥈 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-* 🥉 **Microsoft Certified: Azure Data Fundamentals**
+###  Certifications
+*  **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+*  **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+*  **Microsoft Certified: Azure Data Fundamentals**
 
 ### 📈 GitHub Stats
 <div align="center">
