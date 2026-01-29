@@ -26,7 +26,7 @@
 I'm a **Computer Science Senior at VIT, Vellore** with a passion for **Data Science, Machine Learning, and Computer Vision**. I have experience working on research-based solutions, including a summer internship at the **National University of Singapore (NUS)**.
 
 *  **I’m currently working on:** Advanced Computer Vision applications and IoT integrations.
-*  **Education:** B.Tech CSE (GPA: 8.52).
+*  **Education:** B.Tech CSE (GPA: 8.56).
 *  **Experience:** Developed counterfeit currency detection models using AWS SageMaker during my internship at NUS.
 *  **Interests:** Generative AI, Stock Market Analysis, and Wildlife Monitoring Systems.
 *  **Fun Fact:** When I'm not coding, I'm grinding FPS games or traveling! ️
