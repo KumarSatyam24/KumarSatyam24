@@ -3,7 +3,7 @@
 # Hello, I'm Satyam Kumar! 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=CS+Senior+%40+VIT+Vellore;Ex-Research+Intern+%40+NUS+Singapore;Oracle+Certified+Gen+AI+Professional;Building+Scalable+ML+%26+IoT+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=CS+Senior+%40+VIT+Vellore;Ex-Research+Intern+%40+NUS+Singapore;Oracle+Certified+Gen+AI+Professional;Building+Scalable+ML+%26+IoT+Solutions;Upcoming+Graduate+Engineer+Trainee+%40+LTM" alt="Typing SVG" />
 </a>
 
 <p align="center">
